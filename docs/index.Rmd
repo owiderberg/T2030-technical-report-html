@@ -3,7 +3,7 @@ title: "The Transform 2030 data set"
 author:
   name:    | 
     | Lead authors: Oscar Widerberg, Cornelia Fast, Montserrat Koloffon, Philipp Pattberg
-    | Contributing authors: Karin Bäckstrand, Julia van Heese, Ian Higham, Essraa Hussein, and Faradj Koliev
+    | Contributing authors: Faradj Koliev, Ian Higham, Karin Bäckstrand, Julia van Heese, Essraa Hussein, and 
   email: oscar.widerberg@vu.nl
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -54,7 +54,7 @@ source("02_Read in data and create R objects_v1.R")
 
 # Introduction
 
-Multi-stakeholder partnerships (MSPs) between public, private and civil society organizations are expected to play an important role in implementing the Sustainable Development Goals (SDGs) and the 2030 Agenda. In 2015, when the United Nations General Assembly's adopted the 2030 Agenda and the SDGs, UN member states emphasized the role of MSPs through Goal 17 - '*Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development' @un2015*. MSPs are expected to address challenges across geographies and to "mobilize and share knowledge, expertise, technology and financial resources" to support the implementation of Agenda 2030 [@un2015, pp.27]. Subsequently, the need to accelerate and scale up action was pronounced both through the launch of the Decade of Action in 2020 and at the Stockholm+50 conference in 2022. A key feature to accelerated action is to understand and address the interconnected nature of global challenges such as climate change, biodiversity loss and poverty reduction [@prescott2020]. Climate change, for instance, is changing precipitation patterns which in turn puts pressure on ecosystems and local communities' ability to sustain themselves and thereby undermine poverty alleviation efforts. Consequently, addressing environmental, social and economic SDGs together could generate greater benefits than focusing only on single targets. MSPs may be considered vehicles for creating synergies between two or more SDGs.
+Multi-stakeholder partnerships (MSPs) between public, private and civil society organizations are expected to play an important role in implementing the Sustainable Development Goals (SDGs) and the 2030 Agenda. In 2015, when the United Nations General Assembly's adopted the 2030 Agenda and the SDGs, UN member states emphasized the role of MSPs through Goal 17 - '*Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development' @un2015*. MSPs are expected to address challenges across geographies and to "mobilize and share knowledge, expertise, technology and financial resources" to support the implementation of Agenda 2030 [@un2015, pp.27]. Subsequently, the need to accelerate and scale up action was pronounced both through the launch of the Decade of Action in 2020 and at the Stockholm+50 conference in 2022. The 2023 SDG Progress Report also sound the alarm of insufficient action towards the SDGs [@un2023]. th A key feature to accelerated action is to understand and address the interconnected nature of global challenges such as climate change, biodiversity loss and poverty reduction [@prescott2020]. Climate change, for instance, is changing precipitation patterns which in turn puts pressure on ecosystems and local communities' ability to sustain themselves and thereby undermine poverty alleviation efforts. Consequently, addressing environmental, social and economic SDGs together could generate greater benefits than focusing only on single targets. MSPs may be considered vehicles for creating synergies between two or more SDGs.
 
 ## Why multi-stakeholder partnerships
 
@@ -287,7 +287,7 @@ To determine whether an entry on the UN DESA Partnership Platform could be consi
 Table 1. Operationalization of MSP definition
 
 | **Criterion \#** | **Requirements**                                                                                                                                                                                                    |
-|---------------------|---------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | 1                | Does the entry involve partners from more than one of the following sectors: public, private, civil society?                                                                                                        |
 | 2                | Are the partners based in more than one jurisdiction?                                                                                                                                                               |
 | 3                | Are the partners targeting more than one jurisdiction?                                                                                                                                                              |
@@ -308,7 +308,7 @@ Furthermore, in order to identify whether the MSPs are active or no longer perfo
 Table 3. Operationalization of the categorical variable of activity level
 
 | **Activity level** | **Operationalization**                                                                     |
-|----------------------|--------------------------------------------------|
+|------------------------|------------------------------------------------|
 | Active             | Evidence of activity since 1st January 2019                                                |
 | Concluded          | Evidence of concluded activities, or last activity was before 1st January 2019             |
 | Inactive           | Launch described on UN DESA platform or elsewhere but no additional information available. |
