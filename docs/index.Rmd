@@ -3,7 +3,7 @@ title: "The Transform 2030 data set"
 author:
   name:    | 
     | Lead authors: Oscar Widerberg, Cornelia Fast, Montserrat Koloffon, Philipp Pattberg
-    | Contributing authors: Faradj Koliev, Ian Higham, Karin Bäckstrand, Julia van Heese, Essraa Hussein, and 
+    | Contributing authors: Faradj Koliev, Ian Higham, Karin Bäckstrand, Julia van Heese, and Essraa Hussein 
   email: oscar.widerberg@vu.nl
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -287,7 +287,7 @@ To determine whether an entry on the UN DESA Partnership Platform could be consi
 Table 1. Operationalization of MSP definition
 
 | **Criterion \#** | **Requirements**                                                                                                                                                                                                    |
-|-----------------------|-------------------------------------------------|
+|-----------------------|------------------------------------------------|
 | 1                | Does the entry involve partners from more than one of the following sectors: public, private, civil society?                                                                                                        |
 | 2                | Are the partners based in more than one jurisdiction?                                                                                                                                                               |
 | 3                | Are the partners targeting more than one jurisdiction?                                                                                                                                                              |
@@ -308,7 +308,7 @@ Furthermore, in order to identify whether the MSPs are active or no longer perfo
 Table 3. Operationalization of the categorical variable of activity level
 
 | **Activity level** | **Operationalization**                                                                     |
-|------------------------|------------------------------------------------|
+|-------------------------|------------------------------------------------|
 | Active             | Evidence of activity since 1st January 2019                                                |
 | Concluded          | Evidence of concluded activities, or last activity was before 1st January 2019             |
 | Inactive           | Launch described on UN DESA platform or elsewhere but no additional information available. |
